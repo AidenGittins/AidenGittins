@@ -4,6 +4,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... a Flask Web Application 
 - 🌱 I’m currently learning ... Front-end Design
+
 [![Spotify](https://spotify-readme-cyan.vercel.app/api/spotify-playing)](https://open.spotify.com/user/aidengit100)
 
 <a href="https://github.com/AidenGittins/AidenGittins">
