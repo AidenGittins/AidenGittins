@@ -10,7 +10,7 @@
 </a>
 
 <a href="https://github.com/AidenGittins/AidenGittins">
-  <img align="center" src="https://spotify-readme-cyan.vercel.app/api/spotify-playing" width="350" />
+  <img align="center" src="https://spotify-readme-cyan.vercel.app/api/spotify-playing" width="550" />
 </a>
 
 <!-- ## Spotify Playing -->
