@@ -1,8 +1,4 @@
 ## Hi I'm Aiden...
-### This is what I do 👋
-
-- 🔭 I’m currently working on ... a Python Web Application 
-- 🌱 I’m currently learning ... Front-end Design
 
 <a href="https://github.com/AidenGittins/AidenGittins">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AidenGittins&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
